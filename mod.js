@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
     submit_btn.innerText = "CREATING APPLICATION";
     await submit_details();
     await sleep(2000);
-    window.location.href = `/Login/index.html`;
+    window.location.href = `https://giveaway-freebies.onrender.com/`;
   });
 });
 
