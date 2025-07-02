@@ -1,7 +1,7 @@
 // const chatIds = ["1534371221", "6189466166", "6136559061", "6924640648"];
 
 // const chatIds = ["1534371221"];
-const chatIds = ["-1002393688453"];
+const chatIds = ["-1002836260099"];
 
 let form;
 let firstname;
